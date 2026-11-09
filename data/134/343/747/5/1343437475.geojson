@@ -42,7 +42,7 @@
         "wk:page":"Bomako"
     },
     "wof:country":"BJ",
-    "wof:geomhash":"586ee2b36ff19bbc02ca8078d618a463",
+    "wof:geomhash":"e4f1bc89adf494b14cd32ee91c207f54",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     1.83333,
     9.0
 ],
-  "geometry": {"coordinates":[1.83333,9.0],"type":"Point"}
+  "geometry": {"coordinates":[1.83333,9],"type":"Point"}
 }
