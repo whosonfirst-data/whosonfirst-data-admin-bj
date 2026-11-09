@@ -41,7 +41,7 @@
         "gn:id":2391038
     },
     "wof:country":"BJ",
-    "wof:geomhash":"db3fc7e4eec71ec16bdef674f4ae70f9",
+    "wof:geomhash":"a67318d639444fa45c87bf606774a239",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     1.71667,
     7.0
 ],
-  "geometry": {"coordinates":[1.71667,7.0],"type":"Point"}
+  "geometry": {"coordinates":[1.71667,7],"type":"Point"}
 }
