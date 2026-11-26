@@ -1,0 +1,74 @@
+{
+  "id": 9895012720,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.3708,11.5559,2.3708,11.5559",
+    "geom:latitude":11.5559,
+    "geom:longitude":2.3708,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645474: name \"Tissoua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645474"
+        },
+        {
+            "citation":"GeoNames populated place 13645474: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645474"
+        },
+        {
+            "citation":"GeoNames populated place 13645474: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645474"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758967 (Banikoara), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668805,
+        102191573,
+        1108758967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645474
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"4d8e97203beea1034ef03d8d13b71879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758967,
+            "locality_id":9895012720,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":9895012720,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Tissoua",
+    "wof:parent_id":1108758967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.3708,
+    11.5559,
+    2.3708,
+    11.5559
+],
+  "geometry": {"coordinates":[2.3708,11.5559],"type":"Point"}
+}

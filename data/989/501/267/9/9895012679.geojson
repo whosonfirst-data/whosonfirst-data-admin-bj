@@ -1,0 +1,74 @@
+{
+  "id": 9895012679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.93385,6.70526,1.93385,6.70526",
+    "geom:latitude":6.70526,
+    "geom:longitude":1.93385,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225427: name \"Kpav\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225427"
+        },
+        {
+            "citation":"GeoNames populated place 12225427: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225427"
+        },
+        {
+            "citation":"GeoNames populated place 12225427: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225427"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758893 (Bopa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668823,
+        102191573,
+        1108758893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225427
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c31b78ccf5146df5780962e702928402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758893,
+            "locality_id":9895012679,
+            "region_id":85668823
+        }
+    ],
+    "wof:id":9895012679,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Kpav\u00e9",
+    "wof:parent_id":1108758893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.93385,
+    6.70526,
+    1.93385,
+    6.70526
+],
+  "geometry": {"coordinates":[1.93385,6.70526],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895012711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4814,10.6603,1.4814,10.6603",
+    "geom:latitude":10.6603,
+    "geom:longitude":1.4814,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954391: name \"Mako\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954391"
+        },
+        {
+            "citation":"GeoNames populated place 12954391: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954391"
+        },
+        {
+            "citation":"GeoNames populated place 12954391: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954391"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758871 (Toucountouna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668825,
+        102191573,
+        1108758871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954391
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"2cf7475f0b70f26a0829f08e49a5d600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758871,
+            "locality_id":9895012711,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":9895012711,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Mako",
+    "wof:parent_id":1108758871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4814,
+    10.6603,
+    1.4814,
+    10.6603
+],
+  "geometry": {"coordinates":[1.4814,10.6603],"type":"Point"}
+}

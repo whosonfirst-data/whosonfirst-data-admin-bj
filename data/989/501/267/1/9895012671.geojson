@@ -1,0 +1,74 @@
+{
+  "id": 9895012671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.3882,10.7435,1.3882,10.7435",
+    "geom:latitude":10.7435,
+    "geom:longitude":1.3882,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12172640: name \"Tchanwassaga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12172640"
+        },
+        {
+            "citation":"GeoNames populated place 12172640: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12172640"
+        },
+        {
+            "citation":"GeoNames populated place 12172640: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12172640"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421172113 (Tanguieta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668825,
+        102191573,
+        421172113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12172640
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d4b11041b2df1fb617b87e7dac8cd625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421172113,
+            "locality_id":9895012671,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":9895012671,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Tchanwassaga",
+    "wof:parent_id":421172113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.3882,
+    10.7435,
+    1.3882,
+    10.7435
+],
+  "geometry": {"coordinates":[1.3882,10.7435],"type":"Point"}
+}

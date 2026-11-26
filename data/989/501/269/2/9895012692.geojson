@@ -1,0 +1,74 @@
+{
+  "id": 9895012692,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.20055,7.85255,2.20055,7.85255",
+    "geom:latitude":7.85255,
+    "geom:longitude":2.20055,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12276960: name \"Tchatchegou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12276960"
+        },
+        {
+            "citation":"GeoNames populated place 12276960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12276960"
+        },
+        {
+            "citation":"GeoNames populated place 12276960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12276960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758945 (Glazoue), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668807,
+        102191573,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12276960
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"8b24e2749c39c031bfa9a00b2e72b7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":9895012692,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":9895012692,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Tchatchegou",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.20055,
+    7.85255,
+    2.20055,
+    7.85255
+],
+  "geometry": {"coordinates":[2.20055,7.85255],"type":"Point"}
+}

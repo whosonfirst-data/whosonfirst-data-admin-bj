@@ -1,0 +1,74 @@
+{
+  "id": 9895012704,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.15497,11.94561,3.15497,11.94561",
+    "geom:latitude":11.94561,
+    "geom:longitude":3.15497,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12450955: name \"Kangara Peulh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12450955"
+        },
+        {
+            "citation":"GeoNames populated place 12450955: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12450955"
+        },
+        {
+            "citation":"GeoNames populated place 12450955: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12450955"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758955 (Karimama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668805,
+        102191573,
+        1108758955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12450955
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"a3af3a1fa624e91720cbabf91a84dae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758955,
+            "locality_id":9895012704,
+            "region_id":85668805
+        }
+    ],
+    "wof:id":9895012704,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Kangara Peulh",
+    "wof:parent_id":1108758955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.15497,
+    11.94561,
+    3.15497,
+    11.94561
+],
+  "geometry": {"coordinates":[3.15497,11.94561],"type":"Point"}
+}
