@@ -1,0 +1,74 @@
+{
+  "id": 9895012689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.19071,7.8571,2.19071,7.8571",
+    "geom:latitude":7.8571,
+    "geom:longitude":2.19071,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12276957: name \"Ok\u00e9m\u00e9r\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12276957"
+        },
+        {
+            "citation":"GeoNames populated place 12276957: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12276957"
+        },
+        {
+            "citation":"GeoNames populated place 12276957: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12276957"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758945 (Glazoue), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668807,
+        102191573,
+        1108758945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12276957
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"6533b1efd0862f8443bb6a34e8027f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758945,
+            "locality_id":9895012689,
+            "region_id":85668807
+        }
+    ],
+    "wof:id":9895012689,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Ok\u00e9m\u00e9r\u00e9",
+    "wof:parent_id":1108758945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.19071,
+    7.8571,
+    2.19071,
+    7.8571
+],
+  "geometry": {"coordinates":[2.19071,7.8571],"type":"Point"}
+}

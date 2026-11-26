@@ -1,0 +1,74 @@
+{
+  "id": 9895012719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.04331,10.95612,1.04331,10.95612",
+    "geom:latitude":10.95612,
+    "geom:longitude":1.04331,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645254: name \"Daga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645254"
+        },
+        {
+            "citation":"GeoNames populated place 13645254: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645254"
+        },
+        {
+            "citation":"GeoNames populated place 13645254: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645254"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758833 (Materi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668825,
+        102191573,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645254
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"eff437159f78a996902f5a81649fbda9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":9895012719,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":9895012719,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Daga",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.04331,
+    10.95612,
+    1.04331,
+    10.95612
+],
+  "geometry": {"coordinates":[1.04331,10.95612],"type":"Point"}
+}

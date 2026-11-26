@@ -1,0 +1,74 @@
+{
+  "id": 9895012705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.14775,10.76376,1.14775,10.76376",
+    "geom:latitude":10.76376,
+    "geom:longitude":1.14775,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493388: name \"Kopenedi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493388"
+        },
+        {
+            "citation":"GeoNames populated place 12493388: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493388"
+        },
+        {
+            "citation":"GeoNames populated place 12493388: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493388"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758833 (Materi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668825,
+        102191573,
+        1108758833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493388
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"9789eec14ae7b263b8ea303197fa4526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758833,
+            "locality_id":9895012705,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":9895012705,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Kopenedi",
+    "wof:parent_id":1108758833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.14775,
+    10.76376,
+    1.14775,
+    10.76376
+],
+  "geometry": {"coordinates":[1.14775,10.76376],"type":"Point"}
+}

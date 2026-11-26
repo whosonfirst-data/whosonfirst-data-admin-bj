@@ -1,0 +1,74 @@
+{
+  "id": 9895012670,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.73606,7.11103,2.73606,7.11103",
+    "geom:latitude":7.11103,
+    "geom:longitude":2.73606,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12080974: name \"Oke-Ola\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12080974"
+        },
+        {
+            "citation":"GeoNames populated place 12080974: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12080974"
+        },
+        {
+            "citation":"GeoNames populated place 12080974: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12080974"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758855 (Pobe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668821,
+        102191573,
+        1108758855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12080974
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"30da3d3e4316f8df72c4dc9d813f1525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758855,
+            "locality_id":9895012670,
+            "region_id":85668821
+        }
+    ],
+    "wof:id":9895012670,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Oke-Ola",
+    "wof:parent_id":1108758855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.73606,
+    7.11103,
+    2.73606,
+    7.11103
+],
+  "geometry": {"coordinates":[2.73606,7.11103],"type":"Point"}
+}

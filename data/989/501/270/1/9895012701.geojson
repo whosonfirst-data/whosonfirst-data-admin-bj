@@ -1,0 +1,74 @@
+{
+  "id": 9895012701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.15045,6.40016,2.15045,6.40016",
+    "geom:latitude":6.40016,
+    "geom:longitude":2.15045,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12440149: name \"S\u00e9gbanou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12440149"
+        },
+        {
+            "citation":"GeoNames populated place 12440149: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12440149"
+        },
+        {
+            "citation":"GeoNames populated place 12440149: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12440149"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421174729 (Ouidah), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668809,
+        102191573,
+        421174729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12440149
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"c22bbdf461862d1fd75e5840e6455476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":421174729,
+            "locality_id":9895012701,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":9895012701,
+    "wof:lastmodified":1795735105,
+    "wof:name":"S\u00e9gbanou",
+    "wof:parent_id":421174729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.15045,
+    6.40016,
+    2.15045,
+    6.40016
+],
+  "geometry": {"coordinates":[2.15045,6.40016],"type":"Point"}
+}

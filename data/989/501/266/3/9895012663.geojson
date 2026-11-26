@@ -1,0 +1,74 @@
+{
+  "id": 9895012663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.08333,6.85,2.08333,6.85",
+    "geom:latitude":6.85,
+    "geom:longitude":2.08333,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2391165: name \"Toffo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2391165"
+        },
+        {
+            "citation":"GeoNames populated place 2391165: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2391165"
+        },
+        {
+            "citation":"GeoNames populated place 2391165: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2391165"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758977 (Toffo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668809,
+        102191573,
+        1108758977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2391165
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"d67996066a21982074921bf189c1d823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758977,
+            "locality_id":9895012663,
+            "region_id":85668809
+        }
+    ],
+    "wof:id":9895012663,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Toffo",
+    "wof:parent_id":1108758977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.08333,
+    6.85,
+    2.08333,
+    6.85
+],
+  "geometry": {"coordinates":[2.08333,6.85],"type":"Point"}
+}

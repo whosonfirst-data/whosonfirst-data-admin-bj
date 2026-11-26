@@ -1,0 +1,74 @@
+{
+  "id": 9895012713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.96569,10.69714,1.96569,10.69714",
+    "geom:latitude":10.69714,
+    "geom:longitude":1.96569,
+    "iso:country":"BJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589522: name \"Bagoubagou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589522"
+        },
+        {
+            "citation":"GeoNames populated place 13589522: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589522"
+        },
+        {
+            "citation":"GeoNames populated place 13589522: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589522"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758971 (Kerou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632247,
+        85668825,
+        102191573,
+        1108758971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589522
+    },
+    "wof:country":"BJ",
+    "wof:geomhash":"ac24a539fae16cc755c81aeb73696fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632247,
+            "county_id":1108758971,
+            "locality_id":9895012713,
+            "region_id":85668825
+        }
+    ],
+    "wof:id":9895012713,
+    "wof:lastmodified":1795735105,
+    "wof:name":"Bagoubagou",
+    "wof:parent_id":1108758971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.96569,
+    10.69714,
+    1.96569,
+    10.69714
+],
+  "geometry": {"coordinates":[1.96569,10.69714],"type":"Point"}
+}
